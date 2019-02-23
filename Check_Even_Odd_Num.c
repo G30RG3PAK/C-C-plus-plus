@@ -1,8 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("Hello george\n");
-    int a,b,c,d;
+    int a;
     scanf("%d", &a);
      while(a > 0)
      {
